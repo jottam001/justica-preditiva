@@ -1,0 +1,13 @@
+## 🛠️ Tecnologias
+
+- PostgreSQL (pode ser adaptado para MySQL, SQLite etc.)
+
+## 📥 Como usar
+
+1. Clone este repositório
+2. Importe os scripts SQL no seu gerenciador de banco de dados
+3. Explore os dados
+
+## ⚠️ Aviso
+
+Este projeto é apenas para fins educacionais e simula um banco de dados judicial fictício. Nenhuma informação real é usada.
