@@ -1,6 +1,6 @@
 # 📂 Histórico Penal - Banco de Dados
 
-Este projeto contém a modelagem e scripts SQL para um banco de dados voltado ao armazenamento de informações sobre indivíduos, seus históricos criminais e registros de audiências judiciais.
+Este projeto contém a modelagem e PogrestSQL/Pyton para um banco de dados voltado ao armazenamento de informações sobre indivíduos, seus históricos criminais e registros de audiências judiciais.
 
 ## 📌 Objetivo
 
@@ -17,9 +17,4 @@ Registrar e consultar dados de pessoas com:
 - **Audiencia**: registros de audiências judiciais
 
 ## 📂 Pastas
-- Diretório exclusivo para uso governamental, lienceciado apenas para uso de alta patente. sempre em atualização.
-
-## Como rodar
-
-- pip install -r requirements.txt
-- progestsql/python app.py
+- Diretório exclusivo para uso governamental, licenciado apenas para uso de alta patente. sempre em Upgrade de dados.
