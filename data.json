@@ -8,4 +8,5 @@
 "historico_criminal": ["qual"],
 "comparecimento_audiencias": 0,
 "questoes_sociais": {"emprego": "sim", "moradia_estavel": "nao"
-"resultado": "absolvido/condenado"};
+"resultado": "absolvido/condenado"}
+}]
