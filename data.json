@@ -1,0 +1,11 @@
+[
+{
+"id": 00,
+"idade": 00,
+"genero": "masculino",
+"raca": "pardo/negro/branco/indigena/",
+"residencia": "Localidade",
+"historico_criminal": ["qual"],
+"comparecimento_audiencias": 0,
+"questoes_sociais": {"emprego": "sim", "moradia_estavel": "nao"
+"resultado": "absolvido/condenado"};
