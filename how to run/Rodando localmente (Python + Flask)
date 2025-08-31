@@ -1,0 +1,40 @@
+Clone o projeto:
+
+git clone https://github.com/seu-usuario/justica-preditiva-simples.git
+cd justica-preditiva-simples
+
+
+Crie um ambiente virtual (recomendado):
+
+python3 -m venv venv
+source venv/bin/activate   # Linux/macOS
+venv\Scripts\activate      # Windows
+
+
+Instale dependências:
+
+pip install -r requirements.txt
+
+
+Rode o servidor Flask:
+
+python app.py
+
+
+O servidor vai subir em http://0.0.0.0:5000 ou http://127.0.0.1:5000.
+
+Teste a API:
+
+curl http://127.0.0.1:5000/list
+
+2️⃣ Rodando com Gunicorn (produção local)
+gunicorn -w 4 -b 0.0.0.0:5000 app:app
+
+
+-w 4 → 4 processos workers
+
+-b 0.0.0.0:5000 → acessível externamente
+
+Para rodar em background:
+
+nohup gunicorn -w 4 -b 0.0.0.0:5000 app:app &
