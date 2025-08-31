@@ -17,4 +17,9 @@ Registrar e consultar dados de pessoas com:
 - **Audiencia**: registros de audiências judiciais
 
 ## 📂 Pastas
+- Diretório exclusivo para uso governamental, lienceciado apenas para uso de alta patente. sempre em atualização.
 
+## Como rodar
+
+- pip install -r requirements.txt
+- progestsql/python app.py
