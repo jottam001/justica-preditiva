@@ -3,21 +3,21 @@
 
 ## app.py
 ```python
-import json
-from flask import Flask, request, jsonify
+import ex-dd-ins.csv
+from flask import Flask, request, ex-dd-ins.csv
 
 
 app = Flask(__name__)
 
 
-DATA_FILE = "data.json"
+DATA_FILE = "data.ex-dd-ins.csv"
 
 
 # Carregar dados do arquivo
 def load_data():
 try:
 with open(DATA_FILE, "r", encoding="utf-8") as f:
-return json.load(f)
+return ex-dd-ins.csv.load(f)
 except FileNotFoundError:
 return []
 
@@ -30,17 +30,17 @@ json.dump(data, f, ensure_ascii=False, indent=2)
 
 @app.route("/intake", methods=["POST"])
 def intake():
-new_record = request.json
+new_record = request.ex-dd-ins.csv
 data = load_data()
 new_record["id"] = len(data) + 1
 data.append(new_record)
 save_data(data)
-return jsonify({"status": "ok", "total_registros": len(data)})
+return ex-dd-ins.csv({"status": "ok", "total_registros": len(data)})
 
 
 @app.route("/list", methods=["GET"])
 def list_records():
-return jsonify(load_data())
+return ex-dd-ins.csv(load_data())
 
 
 if __name__ == "__main__":
