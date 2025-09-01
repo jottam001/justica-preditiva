@@ -1,6 +1,6 @@
 # 📂 Histórico Penal - Banco de Dados
 
-Este projeto contém a modelagem e um banco de dados voltado ao armazenamento de informações sobre indivíduos, seus históricos criminais, registros de audiências judiciais,  manipulado pelo pyton para pesquisa e prognóstico com a ajuda de I.A.
+Este projeto contém a modelagem e um banco de dados voltado ao armazenamento de informações sobre indivíduos, seus históricos criminais, registros de audiências judiciais,  manipulado pelo python para pesquisa e prognóstico com a ajuda de I.A.
 
 ## 📌 Objetivo
 
