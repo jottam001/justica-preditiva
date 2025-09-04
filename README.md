@@ -31,6 +31,6 @@ Registrar e consultar dados de pessoas com:
 
 ## 📂 Arquivos Disponíveis
 
-[Resumo_Pesquisa_Mercado.](https://github.com/jottam001/justica-preditiva/blob/main/Justi%C3%A7a%20Preditiva(COMPAS)2.docx.pdf)pdf → Relatório completo.
+[Resumo_Relatorio.pesquisa.](https://github.com/jottam001/justica-preditiva/blob/main/Justi%C3%A7a%20Preditiva(COMPAS)2.docx.pdf)pdf → Relatório completo.
 
 
