@@ -1,4 +1,5 @@
-Este repositório reúne uma análise crítica sobre o uso da Inteligência Artificial no sistema judiciário, com foco no software COMPAS. O estudo aborda questões de viés algorítmico, transparência, impacto social e governança, destacando os riscos e desafios da chamada Justiça Preditiva.  
+
+  📌 Este repositório reúne uma análise crítica sobre o uso da Inteligência Artificial no sistema judiciário, com foco no software COMPAS. O estudo aborda questões de viés algorítmico, transparência, impacto social e governança, destacando os riscos e desafios da chamada Justiça Preditiva.  
 
   Viés e Justiça: O COMPAS pode reproduzir desigualdades sociais e raciais, classificando desproporcionalmente pessoas negras como de maior risco de reincidência.  
   Transparência e Explicabilidade: O sistema funciona como uma “caixa-preta”, dificultando a compreensão de suas decisões. Isso compromete o contraditório e a defesa.  
@@ -27,5 +28,9 @@ Registrar e consultar dados de pessoas com:
 
 ## 📂 Banco de Dado
 - Diretório exclusivo para uso governamental, licenciado apenas para uso de alta patente. sempre em Upgrade de dados.
+
+## 📂 Arquivos Disponíveis
+
+Resumo_Pesquisa_Mercado.pdf → Relatório completo.
 
 
